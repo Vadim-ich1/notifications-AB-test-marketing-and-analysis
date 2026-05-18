@@ -50,10 +50,23 @@
 ---
 
 ## 📂 Структура репозитория
-* `ab_test_analysis.ipynb` — Jupyter Notebook с полным циклом анализа (загрузка, очистка, проверка гипотез, графики).
-* `groups_payments_data.xlsx` — исходные данные эксперимента (скрыты/демо-версия).
-* `ab_test_presentation.pdf` — бизнес-презентация с ключевыми инсайтами для менеджмента.
+
+* **data/** — директория с исходными материалами проекта.
+  * `groups_payments_data.xlsx` — исходный сырой датасет с транзакциями и логами клиентов.
+* `Анализ АВ-теста.ipynb` — основной Jupyter Notebook с полным циклом исследования (предобработка данных, EDA, проверка гипотез и сегментация).
+* `ab_test_results (итоги).xlsx` — интерактивная таблица-калькулятор в Excel с автоматизированным расчетом финансовых метрик по городам и точкам.
+* `Презентация_AB-test-Analiz.pdf` — финальная бизнес-презентация проекта с ключевыми визуализациями и выводами для стейкхолдеров.
+* `Анализ АВ-теста (просмотр).html` — веб-версия исполненного ноутбука для быстрого ознакомления в браузере.
+* `Анализ АВ-теста (просмотр).pdf` — экспортированный PDF-документ с кодом и графиками распределений.
+* `.gitignore` — конфигурационный файл для исключения системного мусора из репозитория Git.
 
 ---
-**Аналитик:** Макоев Вадим Акимович  
-**Связь:** Telegram: Monahui0 // LinkedIn: www.linkedin.com/in/vadim-makoev-82aa963ab // Email-1: vadimus9makkk@gmail.com // Email-2: mr.makoeff2@gmail.com
+## 📬 Контакты
+
+**Автор:** Макоев Вадим Акимович
+
+[![Telegram](https://img.shields.io/badge/Telegram-%40Monahui0-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Monahui0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vadim_Makoev-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-makoev-82aa963ab)
+
+* **Email:** vadimus9makkk@gmail.com
+* **Резерв:** mr.makoeff2@gmail.com
