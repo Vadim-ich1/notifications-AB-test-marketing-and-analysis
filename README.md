@@ -51,3 +51,7 @@
 * `ab_test_analysis.ipynb` — Jupyter Notebook с полным циклом анализа (загрузка, очистка, проверка гипотез, графики).
 * `groups_payments_data.xlsx` — исходные данные эксперимента (скрыты/демо-версия).
 * `ab_test_presentation.pdf` — бизнес-презентация с ключевыми инсайтами для менеджмента.
+
+---
+**Аналитик:** Макоев Вадим Акимович  
+**Связь:** Telegram: Monahui0 // LinkedIn: www.linkedin.com/in/vadim-makoev-82aa963ab // Email-1: vadimus9makkk@gmail.com // Email-2: mr.makoeff2@gmail.com
